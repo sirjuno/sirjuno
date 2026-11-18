@@ -1,6 +1,6 @@
 # Junior's Calderón Riojas
 
-Product Owner @ Pacífico Seguros
+Technical Product Owner @ Pacífico Seguros
 
 Building digital products, driving innovation and exploring how AI can create better experiences for customers and teams.
 
@@ -11,6 +11,7 @@ Building digital products, driving innovation and exploring how AI can create be
 - Digital Innovation
 - Business Agility
 - Customer Experience
+- Software Development
 
 ### Tools
 
